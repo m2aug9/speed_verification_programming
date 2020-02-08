@@ -1,11 +1,11 @@
 # Comparison of calculation speed by Leibniz series
 
-For verifying the calculation speed of the Leibniz series of programs.
+For verifying the calculation speed of the Leibniz series of programs<br>
 ![Leibniz series](/leibniz_series.png)
 
 ## Requirement
 
-- [Rust 1.40.0](https://www.rust-lang.org/)
+- [Rust 1.41.0](https://www.rust-lang.org/)
 - [Python 3.7.6](https://www.python.org/downloads/release/python-376/)
 - [Node.js 12.14.1](https://nodejs.org/ja/)
 - [java 8](https://mergedoc.osdn.jp/)
